@@ -1,13 +1,12 @@
 {
-	"name": "reskins-assets-space-age",
-	"version": "2.1.0",
-	"factorio_version": "2.1",
-	"title": "Artisanal Reskins: Space Age Assets",
+	"name": "reskins-assets-hurricane",
+	"version": "1.0.0",
+	"factorio_version": "2.0",
+	"title": "Artisanal Reskins: Hurricane Assets",
 	"author": "Kirazy",
 	"contact": "https://discord.gg/qAvSyzZFPr",
-	"homepage": "https://github.com/kirazy/reskins-assets-space-age",
+	"homepage": "https://github.com/kirazy/reskins-assets-hurricane",
 	"dependencies": [],
-	"space_travel_required": true,
 	"package": {
 		"git_publish_branch": "main"
 	}
